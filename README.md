@@ -12,3 +12,6 @@ Arduino IDE
 
 ## Wheel define
 ![iamge](pic/wheel_def.jpg)
+
+## Revise 0729
+![iamge](pic/rev_0729.jpg)
